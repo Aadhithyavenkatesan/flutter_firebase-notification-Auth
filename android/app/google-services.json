@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947357444",
+    "project_id": "task-noter",
+    "storage_bucket": "task-noter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947357444:android:c614b3d2fa196f34c23251",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGCZA2hEOQCMCVvybVtyPL-3OMUKCnETg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
